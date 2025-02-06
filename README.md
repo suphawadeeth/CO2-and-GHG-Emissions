@@ -25,18 +25,18 @@ Data from Feenstra et al. (2015) Penn World Table v10.0 via Our World in Data.
 
 
 
-___
+
 ## 🔎 Key Findings (in progress ..)
 **CO₂ emissions have been consistently rising** since the Industrial Revolution. 
 
-![CO2 plot](relative/path/in/repository/to/image.svg)
+![CO2 plot](https://github.com/suphawadeeth/CO2-and-GHG-Emissions/blob/main/images/glob_co2.png)
 
 
 **Cumulative CO<sub>2</sub> and Temperature Correlation**:
 
 
 
-![Cumulative CO2 plot](relative/path/in/repository/to/image.svg)
+![Cumulative CO2 plot](https://github.com/suphawadeeth/CO2-and-GHG-Emissions/blob/main/images/cumulative_co2.png)
 
 
 
@@ -45,13 +45,13 @@ The dataset reveals a clear upward trend in GHG emissions over the past century,
 The GHG emission rate increased post-2005 at 0.41 Gt/year, approximately 1.7 times higher than pre-2005.
 
 
-![GHG emission plot](relative/path/in/repository/to/image.svg)
+![GHG emission plot](https://github.com/suphawadeeth/CO2-and-GHG-Emissions/blob/main/images/ghg_emission.png)
 
 **Kyoto Protocol's Impact**:
 Despite the Kyoto Protocol’s commitments, GHG emissions have continued to rise without any significant slowdown, indicating that current international climate policies have not been effective enough in reducing emissions globally.
 
 
-![Post-Kyoto](relative/path/in/repository/to/image.svg)
+![Post-Kyoto](https://github.com/suphawadeeth/CO2-and-GHG-Emissions/blob/main/images/post_kyoto.png)
 
 
 
@@ -59,10 +59,10 @@ Despite the Kyoto Protocol’s commitments, GHG emissions have continued to rise
 The Paris Agreement, adopted in 2015 and enforced in 2016, has helped stabilize emissions, though this may be a delayed effect of the **Kyoto Protocol** after years of implementation. However, it has yet to show any significant reduction in global GHG emissions, reinforcing the notion that stronger or different policies may be needed to tackle climate change effectively.
 
 
-![Post-Paris](relative/path/in/repository/to/image.svg)
+![Post-Paris](https://github.com/suphawadeeth/CO2-and-GHG-Emissions/blob/main/images/post_paris.png)
 
 
-___
+
 
 ## 💡 Next Steps
 - Expand the dataset to include regional and sector-specific emissions.
@@ -76,11 +76,8 @@ Contributions are welcome!
 ## ✨ Acknowledgments
 A big thank you to public datasets and climate researchers working towards a sustainable future. 🌱
 
-**** (add Our World in Data Repo)
+[Data on CO2 and Greenhouse Gas Emissions by Our World in Data](https://github.com/owid/co2-data/tree/master)
 
-
-
-___
 
 
 
@@ -101,7 +98,6 @@ ___
 - Climate Change Analysis and Trends
 - Understanding of Global Environmental Agreements (e.g., Paris Agreement)
 
-___
 
 ## References & Additional Resources for Further Research
 - [Global Temperature](https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt)
@@ -112,4 +108,3 @@ Data source: NASA's Goddard Institute for Space Studies (GISS). Credit: NASA/GIS
 - [Kyoto Protocol Reference Manual](https://unfccc.int/resource/docs/publications/08_unfccc_kp_ref_manual.pdf)
 - [Main Greenhouse Gases](https://www.c2es.org/content/main-greenhouse-gases/)
 
-___
