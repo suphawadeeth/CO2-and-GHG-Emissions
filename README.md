@@ -85,23 +85,27 @@ ___
 
 ___
 
-## Key Differences Between Kyoto Protocol & Paris Agreement
+### Key Differences Between Kyoto Protocol & Paris Agreement
 The Kyoto Protocol had binding commitments for developed countries only, whereas the Paris Agreement involves all countries with voluntary commitments.
 
 **Kyoto Protocol (1997)**
-🔹 Binding Emission Targets:
-- Developed countries were given legally binding targets to reduce GHG emissions (collectively 5% below 1990 levels).
+
+#### 🔹 Binding Emission Targets:
+- **Developed countries were given legally binding targets** to reduce GHG emissions (collectively 5% below 1990 levels).
 - Targets were set for a commitment period (2008-2012).
-🔹 Differentiated Responsibility:
+
+#### 🔹 Differentiated Responsibility:
 - Developed countries (Annex I nations) were expected to take the lead in emission reductions.
 - Developing countries (non-Annex I nations) were not required to have binding reduction targets.
 
 **Paris Agreement (2015)**
-🔹 Global Participation:
-- Unlike the Kyoto Protocol, the Paris Agreement includes all countries (both developed and developing) with nationally determined contributions (NDCs).
-🔹 Voluntary Emission Reductions:
+
+#### 🔹 Global Participation:
+- Unlike the Kyoto Protocol, the Paris Agreement **includes all countries (both developed and developing)** with nationally determined contributions (NDCs).
+
+#### 🔹 Voluntary Emission Reductions:
 - Countries set their own targets for GHG reductions based on their national circumstances, capabilities, and priorities.
-- No legally binding reduction targets—instead, countries are encouraged to update their NDCs every five years and increase ambition.
+- **No legally binding reduction targets**, countries are encouraged to update their NDCs every five years and increase ambition.
 ### Observations:
 - Despite the Kyoto Protocol's legally binding targets, GHG emissions continued to rise after its implementation.
 - The Paris Agreement (effective since 2016) has helped stabilize emissions. However, it has failed to reduce emissions on a global scale.
@@ -120,7 +124,7 @@ The Kyoto Protocol had binding commitments for developed countries only, whereas
     - Optimize production efficiency with fewer resources.
     - Develop better global policies for a sustainable future.
 
-### By monitoring and managing emissions, we take a crucial step toward a cleaner, more sustainable world. 🌱¶
+### By monitoring and managing emissions, we take a crucial step toward a cleaner, more sustainable world. 🌱
 
 
 ## 💡 Next Steps
